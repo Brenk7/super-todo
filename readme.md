@@ -2,6 +2,7 @@ This is going to be a simple to-do list.
 YAY
 
 Here's the set of features:
+
 1. You can add items to your list.
 2. You can delete items from your list.
 3. You can mark items as completed.
